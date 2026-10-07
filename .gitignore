@@ -1,0 +1,29 @@
+# Dependencies and generated application output
+node_modules/
+dist/
+/release/
+/release-update/
+/release-backups/
+*.app/
+*.dmg
+*.zip
+*.gguf
+*.gguf.*
+
+# Local data, secrets, operating-system files and test evidence
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+/verification/
+/large-model-verification.json
+/previews/
+
+# Other projects and historical planning notes in the local workspace
+/os-lab/
+/fz1073-film/
+/PLAN.md
+/docs/original-vision.txt
