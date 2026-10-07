@@ -2191,8 +2191,8 @@ kbd {
   .models-view {
     padding: 45px 47px 30px;
   }
-  
-  
+
+
   .empty-library {
     min-height: 370px;
   }
@@ -2207,8 +2207,8 @@ kbd {
   }
 }
 @media (max-width: 1250px) {
-  
-  
+
+
   .models-view,
   .settings-view {
     padding: 30px 24px 22px;
@@ -2276,8 +2276,8 @@ kbd {
   }
 }
 @media (max-width: 1050px) {
-  
-  
+
+
   .models-view {
     padding: 26px 20px 22px;
   }
