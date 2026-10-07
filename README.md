@@ -64,7 +64,11 @@ Run the native tests from a macOS terminal. A surrounding execution sandbox can 
 
 ## Screenshots
 
-The [screenshot gallery](docs/screenshots/README.md) includes the workbench, model library, resource controls, agent assignments and MCP setup. All captures use the browser preview and example data; no private project files or conversations are shown.
+The [screenshot gallery](docs/screenshots/README.md) includes the desktop workbench, browser preview, model library, resource controls, agent assignments and MCP setup.
+
+![Nexus desktop app with the Demo project, local models and runtime logs](docs/screenshots/desktop-workbench.png)
+
+*Desktop screenshot supplied by the project owner on 8 October 2026: the Demo project, registered models, runtime logs and M5 resource display. The orange character is a desktop overlay, not part of Nexus. The screenshots below and at the top of this README use the browser preview and included example workspace.*
 
 ![Nexus local model library](docs/screenshots/model-library.jpg)
 

@@ -1,6 +1,16 @@
 # Screenshot gallery
 
-Captured from the actual Nexus 0.4.1 React renderer in its browser design preview on 7 October 2026. These screenshots use only the included example workspace and an empty model registry. Native filesystem access, model inference, RAM readings and MCP execution require the desktop app and are not simulated in the captures.
+Screenshots of Nexus 0.4.1, including a desktop capture supplied by the project owner and five captures of the React renderer in its browser design preview.
+
+## Desktop workbench
+
+Captured on 8 October 2026. The desktop app shows the Demo project, registered local models, runtime logs and M5 resource readings. The orange character is a desktop overlay, not part of Nexus.
+
+![Desktop workbench with the Demo project, local models and logs](desktop-workbench.png)
+
+## Browser preview captures
+
+Captured on 7 October 2026 using only the included example workspace and an empty model registry. Native filesystem access, model inference, RAM readings and MCP execution require the desktop app and are not simulated in these preview captures.
 
 ## Editor workbench
 
